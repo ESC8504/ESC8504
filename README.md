@@ -5,7 +5,7 @@
 
 <h3 align="center">Interests</h3>
 
-- 🃏 **Poker**
 - ⚽ **Soccer**
 - 🤖 **Gundam**
 - 💻 **Coding**
+- 🃏 **Poker**
